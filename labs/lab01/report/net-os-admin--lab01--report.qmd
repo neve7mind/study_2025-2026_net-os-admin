@@ -12,7 +12,7 @@ author:
 
 ## Title
 title: "Отчёт по лабораторной работе №1"
-subtitle: "Сетевые технологии"
+subtitle: "Администрирование сетевых подсистем"
 license: "CC BY"
 
 ## Generic otions
